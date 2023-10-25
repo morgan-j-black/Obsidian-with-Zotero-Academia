@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Obsidian.md"
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Obsidian.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,8 +266,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "28739ed3bdba4610",
+  "active": "0f63e8213055359e",
   "lastOpenFiles": [
+    "Notes/why-obsidian.md",
+    "Notes/how-to-connect-obsidian-to-zotero.md",
+    "Pasted image 20231025121956.png",
+    "Pasted image 20231025121848.png",
+    "Notes/someone-elses-workflow-obsidian-rmarkdown-word.md",
     "Literature Notes/@anderson2013.md",
     "Notes/Github authentication.md",
     "Notes/Github repo.md",

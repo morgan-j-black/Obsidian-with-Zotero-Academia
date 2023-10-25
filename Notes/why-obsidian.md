@@ -9,7 +9,7 @@ Mar 1, 2023
 
 I came to find and use Obsidian after a deep dive to fins a solution to an issue that had been plaguing me for years in my doctoral research;  keeping track of all the the things.  Years of reading, research, and idea generation had created a mountain of potentially useful content. However, I was at a loss for a system to find and use any of it efficiently.  An inability to synthesize this information to write stalled to the point of paralysis.  I tried many approaches and apps;  notebooks and journals, elaborate color schemes, walls of Post-its, Evernote, Scrivener, Notion, annotations and notes in Zotero, a master Excel file, and master Word documents.  All these approaches came highly recommended, but none were efficient, no flexible, enough for the way I operate.
 
-# Why Obsidian?po
+# Why Obsidian?
 
 Several people in the digital community that raved about Obsidian, as I am now, said that I needed to commit to it for a 3 to 4 weeks to be sure if it could work or not.  This was great advice.  It takes some time to develop a workflow that suites you.  Obsidian's flexibility, and host of very helpful community plug-ins, allow it to do almost anything, so you need to decide what you want it to do for you. 
 
