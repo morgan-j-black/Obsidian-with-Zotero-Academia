@@ -1,3 +1,4 @@
+
 > [!success] 
 >  Yay, you installed Obsidian. For a nice guide, look at the [documentation](https://help.obsidian.md/Obsidian/Index)
 
@@ -5,6 +6,7 @@ In this Vault (fancy name for folder) I will cover how to use [[Obsidian]], [[Zo
 
 Continue reading this note to learn more about [[Obsidian]]. Then I would suggest reading [[Using citations with Obsidian and Zotero]] which gives an overview, before actually installing [[Zotero]].
 
+---
 # Philosophy
 
 [[Obsidian]] is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. 
@@ -38,12 +40,15 @@ To open any note, either find it on the left panel or type `ctrl+o` and search f
 
 # Syncing
 There are several options to back up and sync your vault across different devices.
-
 Easiest way to do this is with [[Obsidian - sync]] that’s costs $10 a month.
 
-Because I’m a cheap skate, I use the [[Obsidian git plugin]] to back up to [[GitHub]] and then [[pull]] the changes to my phone.
+A free way that works almost as well is using a third party app called Resilio Sync https://www.resilio.com/individuals/
 
-If that sounds too complicated then you can sync with other [[cloud services]] like OneDrive and iCloud.
+Different from a cloud, this syncs a local folder, on your laptop, to another device (your phone).  As long as you run Resilio sync (can be automated), the folder on your laptop will be identical to the one on your phone.
+
+GitHub is another option....
+
+> rlaker says: "Because I’m a cheap skate, I use the [[Obsidian git plugin]] to back up to [[GitHub]] and then [[pull]] the changes to my phone. If that sounds too complicated then you can sync with other [[cloud services]] like OneDrive and iCloud.""
 
 # Tips
 

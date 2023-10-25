@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a979a083dc8b16",
+        "id": "8c2e39142bf93c80",
         "type": "tabs",
         "children": [
           {
-            "id": "04b05c7927824635",
+            "id": "28739ed3bdba4610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Obsidian.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "365ef34a8087e573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using citations with Obsidian and Zotero.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbb3506526ab409d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Github authentication.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Github authentication.md"
+                "file": "Notes/Obsidian.md"
               }
             }
           }
@@ -129,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Github authentication.md",
+                "file": "Notes/Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Github authentication.md",
+                "file": "Notes/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Github authentication.md",
+                "file": "Notes/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +266,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fbb3506526ab409d",
+  "active": "28739ed3bdba4610",
   "lastOpenFiles": [
     "Literature Notes/@anderson2013.md",
     "Notes/Github authentication.md",
