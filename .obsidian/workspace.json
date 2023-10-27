@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd89f739a568357",
+        "id": "7b92c3314b8bc38b",
         "type": "tabs",
         "children": [
           {
-            "id": "f17b01e8d124bb5e",
+            "id": "438d6631e814a761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Obsidian-tutorial.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Obsidian-tutorial.md"
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Obsidian-tutorial.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Obsidian-tutorial.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Obsidian-tutorial.md",
+                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,15 +246,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f17b01e8d124bb5e",
+  "active": "438d6631e814a761",
   "lastOpenFiles": [
     "Notes/why-obsidian.md",
-    "Notes/how-to-connect-obsidian-to-zotero.md",
     "Notes/Obsidian-tutorial.md",
+    "Notes/new-note.md",
+    "Literature notes/@anderson.md",
+    "Literature Notes/@anderson.md",
+    "Notes/how-to-connect-obsidian-to-zotero.md",
+    "Notes/Obsidian.md",
     "Pasted image 20231025121956.png",
     "Pasted image 20231025121848.png",
     "Notes/someone-elses-workflow-obsidian-rmarkdown-word.md",

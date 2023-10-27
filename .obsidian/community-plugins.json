@@ -8,5 +8,7 @@
   "templater-obsidian",
   "omnisearch",
   "homepage",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-citation-plugin",
+  "dataview"
 ]

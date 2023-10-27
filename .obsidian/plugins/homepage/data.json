@@ -1,17 +1,21 @@
 {
-  "version": 2,
-  "defaultNote": "Notes/Obsidian",
-  "useMoment": false,
-  "momentFormat": "YYYY-MM-DD",
-  "workspace": "Home",
-  "workspaceEnabled": false,
-  "hasRibbonIcon": true,
-  "openMode": "Replace all open notes",
-  "manualOpenMode": "Replace last note",
-  "view": "Default view",
-  "revertView": true,
-  "refreshDataview": false,
-  "autoCreate": true,
-  "autoScroll": false,
-  "pin": false
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "hasRibbonIcon": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Replace last note",
+      "view": "Default view",
+      "revertView": true,
+      "refreshDataview": false,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "value": "Notes/Obsidian",
+      "kind": "Graph view",
+      "commands": []
+    }
+  },
+  "separateMobile": false
 }
