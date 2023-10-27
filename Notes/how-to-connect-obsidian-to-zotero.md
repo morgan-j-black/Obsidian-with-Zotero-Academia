@@ -29,6 +29,10 @@ That's all for Zotero.  Magic will happen soon!  :)
 
 # Citations plugin template
 
+Unlike other templates in Obsidian, this one is set up in the Citations plugins options page.
+
+Settings > Community Plugins > Citations > Options > (paste code below into) Literature Note Content Template
+
 Notes on the template below:
 "{{title}}"  The quotations here is a simple workaround to prevent special characters in article titles from making the YAML in obsidian note 'cranky'
 
@@ -41,6 +45,9 @@ The double colon after Topics is not a typo.  That makes gives the content that 
 Feel free to add or change any headers or prompts to make this all more useful to you.  This is all done in the Citations plugin Options page.
 
 ---
+---
+
+
 Title: "{{title}}"
 Type: {{entry.type}}
 Citekey: {{entry.id}}
@@ -49,9 +56,10 @@ Citekey: {{entry.id}}
 
 [Zotero]({{zoteroSelectURI}}) <% tp.user.doi_or_url('{{DOI}}' , '{{URL}}') %> 
 
-Topics:: 
+ Topics:: 
 
 {{abstract}}
+
 # methods:
 - 
 
@@ -59,6 +67,11 @@ Topics::
 - 
 
 # thoughts:
+
+
+
+
+
 ---
 
 

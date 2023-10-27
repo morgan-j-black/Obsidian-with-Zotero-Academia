@@ -1,4 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "focusNewTab": false,
+  "propertiesInDocument": "source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
 }
