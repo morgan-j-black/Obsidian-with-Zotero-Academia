@@ -1,20 +1,39 @@
 
+## Objectives
+- By end of this workshop:
+	- Have a general sense of whether you want to try this workflow OR Why I think this is a solid solution to a common problem.
+	- Understand why markdown is used, why this is considered "future-proof", and that you stuff doesn't ever need to be in a cloud (but can be)
+	- Be able to add a community plug-in (Citations) and navigate enabling and setting it up
+	- Have successfully imported and formatted a literature reference note from your Zotero library (fingers-crossed)
+	- Be able to navigate Obsidian and find the help/instructions you need
+	- Be introduced to some of the possibilities (time dependant)
+		- personal wikipedia
+		- task and project management
+		- reminders (love this)
+		- drafting content that works pretty seamlessly with RMarkdown
+		- manage your whole life
+		- track habits
+		- digital drawing, mind-mapping
+
+
+Please let me know whether this was achieved for you and how it can be improved.
+
 > [!success] 
 >  Yay, you installed Obsidian. For a nice guide, look at the [documentation](https://help.obsidian.md/Obsidian/Index)
 
-In this Vault (fancy name for folder) I will cover how to use [[Obsidian]], [[Zotero]] and [[git]] in academia. The point of doing this inside [[Obsidian]] is to **show** you how it works, meaning I have included some essential plugins and custom templates that I use regularly.
+In this Vault (fancy name for folder) I will cover how to use [[Obsidian-tutorial]], [[Zotero]] and [[git]] in academia. The point of doing this inside [[Obsidian-tutorial]] is to **show** you how it works, meaning I have included some essential plugins and custom templates that I use regularly.
 
-Continue reading this note to learn more about [[Obsidian]]. Then I would suggest reading [[Using citations with Obsidian and Zotero]] which gives an overview, before actually installing [[Zotero]].
+Continue reading this note to learn more about [[Obsidian-tutorial]]. Then I would suggest reading [[Using citations with Obsidian and Zotero]] which gives an overview, before actually installing [[Zotero]].
 
 ---
 # Philosophy
 
-[[Obsidian]] is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. 
+[[Obsidian-tutorial]] is a note taking app, where essentially you are just editing text files with a few extra bells and whistles. 
 
 This is a different approach to some apps like [[Notion]], where everything is online and you don't actually have your own data locally. Therefore, if you plan to take notes for a long time you don't really want to rely on a company to store your data.
 
 > [!important] 
-> If the company behind [[Obsidian]] ever went down then you would still just have all your notes on your computer. They are just text files so could be imported into a new app
+> If the company behind [[Obsidian-tutorial]] ever went down then you would still just have all your notes on your computer. They are just text files so could be imported into a new app
 
 > [!tip] 
 > There is another similar app called [[logseq]], which actually has a really nice [guide](https://docs.logseq.com/#/page/start%20here) to why this type of note taking may be better for you
@@ -24,11 +43,11 @@ The idea behind this kind of note taking app is that we should forget about fold
 By linking these ideas together, _structure can naturally form_ that matches your way of thinking.
 
 > [!info]
-> Turns out people really like using [[Obsidian]] for [Dungeons and Dragons](https://phd20.com/2021-12-20-getting-started-with-obsidian-dnd/)
+> Turns out people really like using [[Obsidian-tutorial]] for [Dungeons and Dragons](https://phd20.com/2021-12-20-getting-started-with-obsidian-dnd/)
 
 # Concepts
 
-This file will act as the contents for the tutorial on [[Obsidian]]. Click on each link to open up the respective note (`ctrl+click` will open the note in a new window).
+This file will act as the contents for the tutorial on [[Obsidian-tutorial]]. Click on each link to open up the respective note (`ctrl+click` will open the note in a new window).
 
 1. [[Obsidian - Syntax]]
 2. [[Obsidian - wiki link]]
@@ -58,7 +77,7 @@ This can also be useful in a conference to keep track of who someone is and what
 
 # Beware the rabbit hole
 
-This setup took me quite a while to make, and involved a deep dive in the rabbit hole. [[Obsidian]] is always changing and there are so many [[Obsidian - Plugins|plugins]] its hard to keep up.
+This setup took me quite a while to make, and involved a deep dive in the rabbit hole. [[Obsidian-tutorial]] is always changing and there are so many [[Obsidian - Plugins|plugins]] its hard to keep up.
 
 > [!info] 
 > Try out this setup and tweak it to suit you. Usually these changes can be made in the settings for each [[Obsidian - Plugins|plugin]], or go on the obsidian forums
