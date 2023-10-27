@@ -1,5 +1,5 @@
 # Credit where due:
-Full credit to [rlaker](https://github.com/rlaker) / **[Obsidian-for-Academia](https://github.com/rlaker/Obsidian-for-Academia)** for providing the bulk of the foundation of the demo vault for academics.  This vault and tutorial is really well done and I (https://github.com/morgan-j-black) have only adapted, and added to it, based on my experience.  Is worth perusing their Github repository for another perspective.
+Full credit to [rlaker](https://github.com/rlaker) / **[Obsidian-for-Academia](https://github.com/rlaker/Obsidian-for-Academia)** for providing the bulk of the foundation of the demo vault for academics.  This vault and tutorial is really well done and I (https://github.com/morgan-j-black) have only adapted, and added to it, based on my experience.  It is worth perusing their Github repository for another perspective.
 
 
 # Obsidian-for-Academia
