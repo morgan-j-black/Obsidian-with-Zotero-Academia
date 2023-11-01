@@ -1,4 +1,4 @@
-[[Obsidian-tutorial]]
+[[Obsidian]]
 
 On windows it is `ctrl-p`
 

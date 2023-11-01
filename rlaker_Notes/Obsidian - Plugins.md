@@ -4,7 +4,7 @@ alias:
 - plugin
 ---
 
-At its simplest [[Obsidian-tutorial]] is just note taking, but it can become more with plugins. These are written by third-parties (who are usually just enthusiatic [[Obsidian-tutorial]] users). 
+At its simplest [[Obsidian]] is just note taking, but it can become more with plugins. These are written by third-parties (who are usually just enthusiatic [[Obsidian]] users). 
 
 > [!info] 
 > You need to enable "community plugins" by leaving safe mode in the settings.

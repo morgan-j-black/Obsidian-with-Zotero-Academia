@@ -1,4 +1,4 @@
-[[Obsidian-tutorial]]
+[[Obsidian]]
 
 - Open file with `ctrl+o`
 - Close file with `ctrl+w`

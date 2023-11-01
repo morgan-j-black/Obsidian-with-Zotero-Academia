@@ -16,11 +16,11 @@ Several people in the digital community that raved about Obsidian, as I am now, 
 Here are some of the reasons I love this program...
 
 1. Very flexible, adaptable, and powerful note taking software
-	- Personal Knowledge Management System or [[Zettelkasten]] 
+	- Personal Knowledge Management System or [[Zettelkasten]]
 	- You basically build a personal Wikipedia
 2. You do not require a clear structure, outline, or plan in advance - it evolves with you...I think you need to experience this to see just how cool it is
 3. Free and open source - so it plays well with many other useful apps like https://www.zotero.org/
-4. Lots of great tutorials
+4. Lots of great tutorials.  I have found it pretty easy to figure out some complex functionality.
 5. Locally stored and 'future proof'
 	- Files are stored in a standard file structure and common file format.  You can find, open, and edit files without the program
 	- There are ways to make it available across devices, but no one has rights to your stuff!
@@ -50,13 +50,16 @@ https://www.youtube.com/playlist?list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd
 
 # What I use Obsidian for
 
-- Summarizing research articles and other reference material. I have it set up to sync automatically with my Zotero library
+- **My favorite functionality:** Summarizing research articles and other reference material. I have it set up to sync automatically with my Zotero library.  Go here [[how-to-connect-obsidian-to-zotero]] for instructions and resources on how to do that.
+
 - Task management, using a modified "Getting Things Done" approach.  
 	- I keep track of everything in Obsidian now and it has reduced my mental clutter/stress tremendously.  I actually relax on the weekends now, because my thoughts are stored and ready for Monday
 - Tracking progress, word count, daily thoughts, random ideas
+	- Dataview and Templater are two very powerful plugins that can do amazing things
 - Managing ongoing areas such as health, family, and home
 - Digital drawing, scibbling, mind-mapping with Excalidraw
 - Story boarding with Canvas
+- Pomodora timer
 
 
 

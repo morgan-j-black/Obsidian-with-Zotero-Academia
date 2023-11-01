@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
+                "file": "Notes/Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/how-to-connect-obsidian-to-zotero.md"
+                "file": "Notes/Obsidian.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
+                "file": "Notes/Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
+                "file": "Notes/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/how-to-connect-obsidian-to-zotero.md",
+                "file": "Notes/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,14 +253,15 @@
   "active": "438d6631e814a761",
   "lastOpenFiles": [
     "Notes/why-obsidian.md",
-    "Notes/Obsidian-tutorial.md",
+    "Notes/Obsidian.md",
     "Notes/new-note.md",
+    "Notes/how-to-connect-obsidian-to-zotero.md",
+    "rlaker_Notes/Obsidian - Citations.md",
+    "rlaker_Notes/Zotero - Better Bibtex.md",
+    "Pasted image 20231025121848.png",
     "Literature notes/@anderson.md",
     "Literature Notes/@anderson.md",
-    "Notes/how-to-connect-obsidian-to-zotero.md",
-    "Notes/Obsidian.md",
     "Pasted image 20231025121956.png",
-    "Pasted image 20231025121848.png",
     "Notes/someone-elses-workflow-obsidian-rmarkdown-word.md",
     "Literature Notes/@anderson2013.md",
     "Notes/Github authentication.md",

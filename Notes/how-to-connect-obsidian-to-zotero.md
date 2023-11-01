@@ -19,21 +19,23 @@ Recommended Zotero add-on: "Zotfile" - not required for today, but excellent for
 	2. Select File > Export Library
 	3. Format is "Better Bibtex"  (not any of the other similar looking ones )
 	4. Ensure you choose automatic update option "Keep updated"![[Pasted image 20231025121848.png]]
-	5. When prompted for location of where to export this libary, choose you main Obsidian Vault folder.
+	5. When prompted for location of where to export this library, choose you main Obsidian Vault folder.
 	6. Give it a simple names without spaces or capitals, followed by the file extension .bib.  Examples: library.bib or zotero.bib or zotero_library.bib ![[Pasted image 20231025121956.png]]
 
 
 That's all for Zotero.  Magic will happen soon!  :)
 
+If these instructions didn't quite work for you, there is another page in this, written by rlaker, vault that might be useful. You can fin those here: [[Obsidian - Citations]]
+
 ### Now open/navigate back to Obsidian...
 
 # Citations plugin template
 
-Unlike other templates in Obsidian, this one is set up in the Citations plugins options page.
+Unlike other templates in Obsidian, this one is set up in the Citations plugins options page. Usually you make a new note/file and use that as a template, but in this case it gets put right in the plug-in settings.  If you use Obsidian for others things, you will want to be aware of this distiction.
 
 Settings > Community Plugins > Citations > Options > (paste code below into) Literature Note Content Template
 
-Notes on the template below:
+### Notes on the template provided below
 "{{title}}"  The quotations here is a simple workaround to prevent special characters in article titles from making the YAML in obsidian note 'cranky'
 
 You can add other bits of content as you like from Zotero's available metadata.
@@ -45,16 +47,16 @@ The double colon after Topics is not a typo.  That makes gives the content that 
 Feel free to add or change any headers or prompts to make this all more useful to you.  This is all done in the Citations plugin Options page.
 
 ---
+### Template to replace default template when Citations is first installed in Obdisidian. Copy and paste everything below this line...
 ---
-
 
 Title: "{{title}}"
 Type: {{entry.type}}
 Citekey: {{entry.id}}
-<% tp.user.paper_yaml("{{entry.type}}", "{{authorString}}",  "{{year}}", "{{DOI}}") %> 
+
 ---
 
-[Zotero]({{zoteroSelectURI}}) <% tp.user.doi_or_url('{{DOI}}' , '{{URL}}') %> 
+[Zotero]({{zoteroSelectURI}}) 
 
  Topics:: 
 
@@ -69,10 +71,6 @@ Citekey: {{entry.id}}
 # thoughts:
 
 
-
-
-
----
 
 
 

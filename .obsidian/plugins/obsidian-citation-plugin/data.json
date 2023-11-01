@@ -2,7 +2,7 @@
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "Literature notes",
-  "literatureNoteContentTemplate": "Title: \"{{title}}\"\nType: {{entry.type}}\nCitekey: {{entry.id}}\n<% tp.user.paper_yaml(\"{{entry.type}}\", \"{{authorString}}\",  \"{{year}}\", \"{{DOI}}\") %> \n---\n\n[Zotero]({{zoteroSelectURI}}) <% tp.user.doi_or_url('{{DOI}}' , '{{URL}}') %> \n\n Topics:: \n\n{{abstract}}\n\n# methods:\n- \n\n# key findings:\n- \n\n# thoughts:\n\n",
+  "literatureNoteContentTemplate": "Title: \"{{title}}\"\nType: {{entry.type}}\nCitekey: {{entry.id}}\n\n---\n\n[Zotero]({{zoteroSelectURI}}) \n\n Topics:: \n\n{{abstract}}\n\n# methods:\n- \n\n# key findings:\n- \n\n# thoughts:\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "library.bib"
